@@ -24,10 +24,6 @@ Unless you know what a glider is and that it moves, when you look at the hacker 
 
 Let's give the hacker emblem room to move:
 
-<img src="http://greptilian.com/images/glidermove0.png" alt="glider generation 0">
-
-Now, I'm not at all advocating for a change to the hacker emblem.  It's fine the way it is.  The casual observer, however, sees only a bunch of dots on a grid.  Let's see how it moves (and why it moves):
-
 <div style="float:left; width=180px;">
 <a href="http://greptilian.com/images/glidermove0.png">
 <img src="http://greptilian.com/images/glidermove0.png" alt="glider generation 0">
@@ -74,7 +70,7 @@ Rules from <a href="http://web.archive.org/web/20090603015231/http://ddi.cs.uni-
 <div style="clear:left;">
 </div>
 
-If you'd like to see glider animated, I'd suggest opening each of the images above in browser tabs and toggling through with Shift-Tab.  Or you could check out an animation on [the glider Wikipedia](http://en.wikipedia.org/wiki/Glider_%28Conway%27s_Life%29).  Personally, I find the static images above easier to study when reading the rules.
+If you'd like to see glider animated, I'd suggest opening each of the images above in browser tabs and toggling through with Ctrl-Tab.  Or you could check out an animation on [the glider Wikipedia page](http://en.wikipedia.org/wiki/Glider_%28Conway%27s_Life%29).  Personally, I find the static images above easier to study when reading the rules.
 
 The images above are PNG files (converted from SVG with `inkscape --export-png=image.png --export-background-opacity=0 --without-gui image.svg`), which won't render correctly in every browser.  Below is is ascii art version as well. :)
 
