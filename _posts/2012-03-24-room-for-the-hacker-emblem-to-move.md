@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Room for the hacker emblem to move
+published: false
 ---
 Maybe you've seen this:
 

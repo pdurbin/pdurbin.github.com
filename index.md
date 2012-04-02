@@ -2,12 +2,6 @@
 layout: default
 title: greptilian
 ---
-<ul>
-{% for post in site.posts reversed %}
-<li>{{ post.date | date:"%Y-%m-%d" }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-
 <a href="http://stackexchange.com/users/10330/philip-durbin"><img src="http://stackexchange.com/users/flair/10330.png" width="208" height="58" alt="profile for Philip Durbin on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Philip Durbin on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 * http://github.com/pdurbin
