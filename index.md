@@ -8,6 +8,10 @@ title: greptilian
 * http://github.com/pdurbin
 * http://twitter.com/philipdurbin
 * http://crimsonfu.github.com/members/pdurbin
+* http://www.commandlinefu.com/commands/by/pdurbin
+* http://stackoverflow.com/users/19464/philip-durbin
+* http://unix.stackexchange.com/users/7494/philip-durbin
+* http://serverfault.com/users/1156/philip-durbin
 * http://stackexchange.com/users/10330/philip-durbin?tab=accounts
 * http://plus.google.com/photos/107770072576338242009/albums/posts
 * http://plus.google.com/107770072576338242009/posts
