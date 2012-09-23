@@ -44,7 +44,9 @@ for my $proff (@$profs) {
         system("curl -s $grabhost > $png");
         sleep .5;
     }
-    my $nohttp = $url->host . $url->path;
+    my $path = $url->path;
+    $path = '' if $path eq '/';
+    my $nohttp = $url->host . $path;
 
     my $li = qq{<li style="list-style-image:url('/$png')"><a href="$proff">$nohttp</a></li>};
     $html .= "$li\n";

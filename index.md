@@ -6,7 +6,7 @@ title: greptilian.com
 
 {% include profiles.html %}
 
-http://wiki.greptilian.com
+<p>
 
 <script src="http://drnicjavascript.rubyforge.org/github_badge/dist/github-badge-launcher.js" type="text/javascript"></script>
 
