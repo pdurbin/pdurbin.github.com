@@ -48,7 +48,7 @@ for my $proff (@$profs) {
     $path = '' if $path eq '/';
     my $nohttp = $url->host . $path;
 
-    my $li = qq{<li style="list-style-image:url('/$png')"><a href="$proff">$nohttp</a></li>};
+    my $li = qq{<li style="list-style-image:url('/$png')"><a rel="me" href="$proff">$nohttp</a></li>};
     $html .= "$li\n";
 
 }
