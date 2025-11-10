@@ -1,2 +1,2 @@
 all:
-	_includes/profiles.pl
+	_includes/profiles.py
